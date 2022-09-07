@@ -1,2 +1,2 @@
 # DisposableEmailChecker
-Creating this initiative to validate if the email address is disposable in order to reduce user acquisition cost and marketing efforts.
+Creating this initiative to filter out the disposable email address from being used in order to reduce user acquisition cost and marketing efforts.
